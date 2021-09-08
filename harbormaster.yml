@@ -6,8 +6,8 @@ apps:
 
   mayhem.cat:
     url: https://github.com/mayhem/mayhem.cat.git
-    branch: main
+    branch: master
 
   immutableweb.org:
     url: https://github.com/immutableweb/immutableweb.org.git
-    branch: main
+    branch: master
