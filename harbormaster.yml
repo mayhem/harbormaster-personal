@@ -6,8 +6,8 @@ apps:
 
   mayhem.cat:
     url: https://github.com/mayhem/mayhem.cat.git
-    branch: docker-compose
+    branch: main
 
   immutableweb.org:
     url: https://github.com/immutableweb/immutableweb.org.git
-    branch: docker-compose
+    branch: main
