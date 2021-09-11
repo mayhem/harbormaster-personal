@@ -13,5 +13,5 @@ apps:
     branch: master
 
   howdareyou.wtf:
-    url: git@github.com:mayhem/howdareyou-server.git
+    url: https://github.com/mayhem/howdareyou-server.git
     branch: main
