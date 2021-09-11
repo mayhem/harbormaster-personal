@@ -11,3 +11,7 @@ apps:
   immutableweb.org:
     url: https://github.com/immutableweb/immutableweb.org.git
     branch: master
+
+  howdareyou.wtf:
+    url: git@github.com:mayhem/howdareyou-server.git
+    branch: main
