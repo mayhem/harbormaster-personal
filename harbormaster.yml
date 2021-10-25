@@ -15,7 +15,3 @@ apps:
   howdareyou.wtf:
     url: https://github.com/mayhem/howdareyou-server.git
     branch: main
-
-  hiddenbeauty.ch:
-    url: https://github.com/hidden-beauty/hiddenbeauty-web.git
-    branch: main
