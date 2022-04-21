@@ -15,3 +15,7 @@ apps:
   howdareyou.wtf:
     url: https://github.com/mayhem/howdareyou-server.git
     branch: main
+
+  books.mayhem.cat:
+    url: https://github.com/mayhem/calibe-web.git
+    branch: main
