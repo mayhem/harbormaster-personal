@@ -19,3 +19,7 @@ apps:
   books.mayhem.cat:
     url: https://github.com/mayhem/calibe-web.git
     branch: main
+
+  tunes.mayhemchaos.org:
+    url: https://github.com/mayhem/funkwhale-proxy.git
+    branch: main
